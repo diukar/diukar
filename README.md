@@ -39,6 +39,17 @@ A subscription-based website service that helps businesses launch fast without u
 - Subscription model
 - Built for speed and simplicity
 
+### RefCheckPro.com (Released)
+
+An AI-powered reference verification platform that modernizes the hiring process.
+
+- Collects structured feedback via recorded calls
+- Uses AI to analyze sentiment and consistency
+- Generates clear, decision-ready summaries
+- Reduces hiring risk and saves recruiter time
+
+Built as a scalable AI-assisted service evolving toward full automation.
+
 ### 🏠 Claim Mate (AI Insurance Assistant)
 
 An AI-powered platform designed to ... 🤐
