@@ -39,7 +39,7 @@ A subscription-based website service that helps businesses launch fast without u
 - Subscription model
 - Built for speed and simplicity
 
-### RefCheckPro.com (Released)
+### ☑️ RefCheckPro.com (Released)
 
 An AI-powered reference verification platform that modernizes the hiring process.
 
