@@ -1,6 +1,6 @@
 # Vladimir Diukar — Vibe Coding is the future of development
 
-**Engineer → Entrepreneur → AI Systems Architect**  
+**Engineer → Systems Architect**  
 📍 Plano, TX &nbsp;|&nbsp; Building AI agents, automation systems & real-world businesses.
 
 ---
@@ -9,14 +9,7 @@
 
 I'm a builder focused on creating practical AI‑powered tools that help run your business.
 
-With 15+ years in engineering and QA, I now design and develop:
-
-- AI agents
-- Automation workflows
-- SaaS platforms
-- Scalable web applications
-
-My work blends engineering discipline, product thinking, and business execution.
+My work blends engineering, product thinking, and business execution.
 
 ---
 
@@ -56,12 +49,6 @@ An AI-powered platform designed to ... 🤐
 
 *(Full product launch in progress.)*
 
-### 📅 NextUp Weekly
-
-- Event submission & approval platform
-- AI-generated weekly digest + Telegram distribution
-- Lightweight SaaS infrastructure
-
 ### 🥤 Smart Amenities
 
 - Self-serve coffee kiosk concept with AI machines
@@ -69,20 +56,9 @@ An AI-powered platform designed to ... 🤐
 
 ---
 
-## 🧠 Technical Stack
-
-| Layer | Technologies |
-|---|---|
-| **Vibe Codding Frontend** | Next.js · React · Tailwind · Lovable · Replit|
-| **Backend** | Supabase · Node.js · Webhooks · REST APIs |
-| **Automation** | n8n · OpenAI API · Telegram Bots · Stripe · RetellAI · Resend|
-| **DevOps / SRE** | Vercel · GitHub Actions · OpenTelemetry *(learning)* |
-
-
 ## 📊 2026 Focus
 
 - Launch scalable SaaS services
-- Grow ClaimMate into a production-ready AI platform
 - Implement stronger SRE & infrastructure practices
 - Build long-term, high-leverage technology assets
 - Work on larger breakthrough ideas
